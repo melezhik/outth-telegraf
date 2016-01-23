@@ -1,0 +1,2 @@
+within: Telegraf - Version \S+
+regexp: Version (\S+)
