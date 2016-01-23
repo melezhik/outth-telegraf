@@ -4,9 +4,9 @@ outthentic smoke tests for telegraf
 
 # Check list
 
-    * verifies that `telegraf -version` succeeds and gives valid output
-    * verifies that `telegraf -usage mysql` succeeds and gives valid output
-    * verifies that `telegraf -filter cpu` succeeds and gives valid output
+* verifies that `telegraf -version` succeeds and gives valid output
+* verifies that `telegraf -usage mysql` succeeds and gives valid output
+* verifies that `telegraf -filter cpu` succeeds and gives valid output
 
 # Sample Output
 
