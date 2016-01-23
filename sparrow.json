@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "name": "outth-telegraf",
+    "engine": "generic", 
+    "description" : "outthentic tests for telegraf",
+    "url": "https://github.com/melezhik/outth-telegraf.git"
+}
